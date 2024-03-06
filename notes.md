@@ -32,3 +32,6 @@ git log -Sdouble -p
  1. Resolve
  2. Stage
  3. Commit
+
+
+ git pull --rebase origin master
